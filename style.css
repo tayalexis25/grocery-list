@@ -27,4 +27,11 @@ h2{
 
 img{
    width: 300px;
+   padding-left: 20px;
+   padding-top: 10px;
+}
+
+.small-head{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
