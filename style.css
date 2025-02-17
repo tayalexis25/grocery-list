@@ -1,0 +1,30 @@
+body{
+   background-color: bisque;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    color: olive;
+}
+
+h2{
+    background-color: darkolivegreen;
+    border: dotted;
+    border-color: white;
+}
+
+.Pantry{
+    background-color: olive;
+    display: inline-block;
+}
+
+
+.Freezer{
+    background-color: olive;
+    display: inline-block;
+}
+
+img{
+   width: 300px;
+}
